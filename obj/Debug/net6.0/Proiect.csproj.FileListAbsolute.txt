@@ -284,3 +284,4 @@ C:\Users\Isa\Desktop\Labs_Medii\Proiect\bin\Debug\net6.0\Microsoft.Extensions.Id
 C:\Users\Isa\Desktop\Labs_Medii\Proiect\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Isa\Desktop\Labs_Medii\Proiect\obj\Debug\net6.0\Proiect.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Isa\Desktop\Labs_Medii\Proiect\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\Isa\Desktop\Labs_Medii\Proiect\obj\Debug\net6.0\Proiect.sourcelink.json

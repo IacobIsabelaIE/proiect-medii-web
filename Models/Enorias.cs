@@ -5,9 +5,12 @@ namespace Proiect.Models
     public class Enorias
     {
         public int ID { get; set; }
+
         public string? Prenume { get; set; }
+       
         public string? Nume { get; set; }
 
+        [StringLength(70)]
         public string Localitate { get; set; }
         public string? Adresa { get; set; }
         public string Email { get; set; }
